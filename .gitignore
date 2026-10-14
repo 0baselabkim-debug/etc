@@ -10,4 +10,6 @@ data/
 artifacts/
 output/
 .kis_local/
+.kiwoom_local/
+보낼파일/
 .streamlit/secrets.toml
